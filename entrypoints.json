@@ -1,0 +1,29 @@
+{
+  "entrypoints": {
+    "app": {
+      "js": [
+        "/theme/firumimi/assets/build/runtime.55dfeb6a.js",
+        "/theme/firumimi/assets/build/0.6b30eef3.js",
+        "/theme/firumimi/assets/build/app.ca8117fe.js"
+      ],
+      "css": [
+        "/theme/firumimi/assets/build/0.e964bb86.css",
+        "/theme/firumimi/assets/build/app.8a91217f.css"
+      ]
+    },
+    "home": {
+      "js": [
+        "/theme/firumimi/assets/build/runtime.55dfeb6a.js",
+        "/theme/firumimi/assets/build/home.597893fc.js"
+      ]
+    }
+  },
+  "integrity": {
+    "/theme/firumimi/assets/build/runtime.55dfeb6a.js": "sha384-3gg5saUCOZlMi/OkKHzJ8IBUN/y97Q2JInFSKtpvWrxZQmaPF9tYFAHnQCeplZUH",
+    "/theme/firumimi/assets/build/0.6b30eef3.js": "sha384-XZmf8q27YdGsPEHKfEjOm2JeoZGU2JDyamD2eKXd8SB1ZnqrdbpCaZQZJ0RR8gBd",
+    "/theme/firumimi/assets/build/app.ca8117fe.js": "sha384-be4oDMDs3J6NYd3a/zJ7jZs9J8jyMQGxSiP1NIEwb9d0/cPc1+BtdfkJtc6ARFz1",
+    "/theme/firumimi/assets/build/0.e964bb86.css": "sha384-Y/OdDms3v+zZYVUXfJzJpuSgfA+93uFfr/N8Y6PNgPloOPX8qbAPmr2fxAzWplgw",
+    "/theme/firumimi/assets/build/app.8a91217f.css": "sha384-B9FIsWOIwb/AomhjD0hsBgWq+Q7hNMhuaKQBFGC7X/P8JkWfVZYXa2mcaa7i6aGM",
+    "/theme/firumimi/assets/build/home.597893fc.js": "sha384-ujUJNy4Rsn7aOo3wIvWvxEaRMK+5YzKrR2GqwyQjkXnOVVO3ldbMBHoAg/cM2xEm"
+  }
+}
